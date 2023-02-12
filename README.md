@@ -1,6 +1,6 @@
 # SQL-Exercises
 
-Welcome to my SQL Solutions Repository! This is a collection of solutions to various SQL practice problems found on websites like Leetcode, SQLZoo etc. , demonstrating my expertise in SQL and my ability to effectively solve complex problems.
+Welcome to my SQL Solutions Repository! This is a collection of solutions to various SQL practice problems found on websites like **Leetcode, SQLZoo** etc. , demonstrating my expertise in SQL and my ability to effectively solve complex problems.
 
 As a recent graduate in computer science, I am eager to showcase my SQL skills and start my journey as a software engineer. However, this repository is not just a starting point, but a continuously updated showcase of my SQL skills and my commitment to continuously improving my abilities.
 
